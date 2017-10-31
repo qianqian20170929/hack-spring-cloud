@@ -9,9 +9,13 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>config-server</module>
+        <module>config-client</module>
+        <module>eureka-serice-feign</module>
         <module>eureka-server</module>
         <module>eureka-service-one</module>
         <module>eureka-service-ribbon</module>
+        <module>service-zuul</module>
     </modules>
 
 </project>
