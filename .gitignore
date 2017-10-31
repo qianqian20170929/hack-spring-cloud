@@ -1,0 +1,16 @@
+!.mvn/wrapper/maven-wrapper.jar
+target/
+hack-spring-cloud.iml
+
+eureka-server/target
+eureka-service-ribbon/target
+eureka-service-one/target
+eureka-serice-feign/target
+
+eureka-server/eureka-server.iml
+eureka-service-ribbon/eureka-service-ribbon.iml
+eureka-service-one/eureka-service-one.iml
+eureka-serice-feign/eureka-serice-feign.iml
+
+
+
