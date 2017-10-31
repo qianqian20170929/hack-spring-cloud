@@ -8,6 +8,7 @@ eureka-service-one/target
 eureka-serice-feign/target
 config-server/target
 config-client/target
+service-zuul/target
 
 eureka-server/eureka-server.iml
 eureka-service-ribbon/eureka-service-ribbon.iml
@@ -15,6 +16,7 @@ eureka-service-one/eureka-service-one.iml
 eureka-serice-feign/eureka-serice-feign.iml
 config-server/config-server.iml
 config-client/config-client.iml
+service-zuul/service-zuul.iml
 
 
 
